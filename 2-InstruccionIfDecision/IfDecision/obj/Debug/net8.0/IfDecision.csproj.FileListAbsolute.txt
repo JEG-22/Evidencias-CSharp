@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\bin\Debug\net8.0\IfDecision.exe
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\bin\Debug\net8.0\IfDecision.deps.json
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\bin\Debug\net8.0\IfDecision.runtimeconfig.json
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\bin\Debug\net8.0\IfDecision.dll
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\bin\Debug\net8.0\IfDecision.pdb
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.sourcelink.json
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.dll
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\refint\IfDecision.dll
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.pdb
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\IfDecision.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCusroC#\2-InstruccionIfDecision\IfDecision\obj\Debug\net8.0\ref\IfDecision.dll
