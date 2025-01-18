@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.sourcelink.json
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\bin\Debug\net8.0\9-DateTime.exe
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\bin\Debug\net8.0\9-DateTime.deps.json
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\bin\Debug\net8.0\9-DateTime.runtimeconfig.json
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\bin\Debug\net8.0\9-DateTime.dll
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\bin\Debug\net8.0\9-DateTime.pdb
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.dll
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\refint\9-DateTime.dll
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.pdb
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\9-DateTime.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCursoC#\9-DateTime\obj\Debug\net8.0\ref\9-DateTime.dll
