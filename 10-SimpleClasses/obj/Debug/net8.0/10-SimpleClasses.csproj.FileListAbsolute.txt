@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.sourcelink.json
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\bin\Debug\net8.0\10-SimpleClasses.exe
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\bin\Debug\net8.0\10-SimpleClasses.deps.json
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\bin\Debug\net8.0\10-SimpleClasses.runtimeconfig.json
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\bin\Debug\net8.0\10-SimpleClasses.dll
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\bin\Debug\net8.0\10-SimpleClasses.pdb
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.dll
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\refint\10-SimpleClasses.dll
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.pdb
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\10-SimpleClasses.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCursoC#\10-SimpleClasses\obj\Debug\net8.0\ref\10-SimpleClasses.dll
