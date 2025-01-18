@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\bin\Debug\net8.0\7-WhileIteration.exe
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\bin\Debug\net8.0\7-WhileIteration.deps.json
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\bin\Debug\net8.0\7-WhileIteration.runtimeconfig.json
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\bin\Debug\net8.0\7-WhileIteration.dll
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\bin\Debug\net8.0\7-WhileIteration.pdb
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.sourcelink.json
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.dll
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\refint\7-WhileIteration.dll
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.pdb
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\7-WhileIteration.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCursoC#\7-WhileIteration\obj\Debug\net8.0\ref\7-WhileIteration.dll
