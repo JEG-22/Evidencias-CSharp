@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCursoC#\8-Strings\bin\Debug\net8.0\8-Strings.exe
+C:\Dev\School\EvidenciasCursoC#\8-Strings\bin\Debug\net8.0\8-Strings.deps.json
+C:\Dev\School\EvidenciasCursoC#\8-Strings\bin\Debug\net8.0\8-Strings.runtimeconfig.json
+C:\Dev\School\EvidenciasCursoC#\8-Strings\bin\Debug\net8.0\8-Strings.dll
+C:\Dev\School\EvidenciasCursoC#\8-Strings\bin\Debug\net8.0\8-Strings.pdb
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.sourcelink.json
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.dll
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\refint\8-Strings.dll
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.pdb
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\8-Strings.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCursoC#\8-Strings\obj\Debug\net8.0\ref\8-Strings.dll
