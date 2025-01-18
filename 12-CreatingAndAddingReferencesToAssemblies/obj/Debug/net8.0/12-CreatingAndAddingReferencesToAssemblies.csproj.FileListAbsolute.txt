@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\bin\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.exe
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\bin\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.deps.json
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\bin\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.runtimeconfig.json
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\bin\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.dll
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\bin\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.pdb
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.sourcelink.json
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.dll
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\refint\12-CreatingAndAddingReferencesToAssemblies.dll
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.pdb
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\12-CreatingAndAddingReferencesToAssemblies.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCursoC#\12-CreatingAndAddingReferencesToAssemblies\obj\Debug\net8.0\ref\12-CreatingAndAddingReferencesToAssemblies.dll
