@@ -1,0 +1,15 @@
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.sourcelink.json
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\bin\Debug\net8.0\11-AssembliesAndNamespaces.exe
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\bin\Debug\net8.0\11-AssembliesAndNamespaces.deps.json
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\bin\Debug\net8.0\11-AssembliesAndNamespaces.runtimeconfig.json
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\bin\Debug\net8.0\11-AssembliesAndNamespaces.dll
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\bin\Debug\net8.0\11-AssembliesAndNamespaces.pdb
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.dll
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\refint\11-AssembliesAndNamespaces.dll
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.pdb
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\11-AssembliesAndNamespaces.genruntimeconfig.cache
+C:\Dev\School\EvidenciasCursoC#\11-AssembliesAndNamespaces\obj\Debug\net8.0\ref\11-AssembliesAndNamespaces.dll
